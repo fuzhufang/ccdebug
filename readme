@@ -1,0 +1,15 @@
+// 第4节 介绍使用 gdb run, quit, list, break, 窗口管理 layout split, 关闭窗口 tui disable 命令
+
+// 第5节 介绍使用 gdb  clear, delete, disable, enable, info break(i b) 命令
+
+// 第6节 watch, rwatch, awatch, info watchpoints, disable/enable/delete 观察点编号
+
+// 第7节 介绍使用 step, next, where, continue, finish, jump 命令
+
+// 第8节 介绍使用 backtrace(bt), bt n, bt -n, backtrace full, frame [n],  f[n], up [n], down [n], info frame, info args, info locals, 命令
+
+// 第9节 info threads , thread id, b 断点 thread id, thread apply 线程号 命令, thread apply all 命令 
+
+// 第10节 查看变量 print(p), 设置变量的值 print(p), ptype 变量, ptype 数据类型, set print array on/off, set print pretty on/off, set union on/off
+
+// 第11节 查看内存 x /选项 地址 ,  执行内嵌函数, 设置日志开关 等

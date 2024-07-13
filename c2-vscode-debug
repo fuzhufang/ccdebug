@@ -1,0 +1,21 @@
+1. 安装 vscode 
+2. 安装 vscode 插件 Remote Development
+3. 安装虚拟机,并且在虚拟机上 安装一个linux 系统, 我这里是 ubuntu20
+4. 使用 vscode 远程连上 目标 linux 系统 
+5. 安装 vscode 插件 c/c++
+6. 安装 gcc, g++ , gdb
+7. 新建一个目录 test1
+8. 使用vscode 打开 test1
+9. 新建一个 test1.cc, 编写测试代码
+10. 按 F5 调试, 
+11. 配置 launch.json
+12. 配置 tasks.json
+13.再次 F5 调试成功
+
+14.在 launch.json 添加配置 gdb 附加
+15.附加进程调试
+16.多线程调试
+17.条件断点
+18.使用gdb命令辅助
+
+
